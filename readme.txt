@@ -1,108 +1,63 @@
-==================================================================================================
-
 DESCRIPTION:
 
-HUDSON is a simple and modern free personal website template designed for creatives and 
-professionals who want to showcase their skills and work in an eye-catching way. Its simple yet 
-sophisticated design is perfect for anyone who wants to create a polished and professional online 
-presence without spending a lot of time or money on web development.
+This is my personal portfolio website built using the HUDSON template from StyleShout.  
+I customized the design and content to showcase my work as a video editor, motion graphics 
+designer, and digital creative professional. My goal is to present a clean, modern, and 
+professional online presence where clients can explore my projects, skills, and experience.
 
 ==================================================================================================
-
 
 LICENSE:
 
-This free resource is provided by styleshout.com and is free to use in 
+The base HUDSON template is a free resource provided by styleshout.com and is free to use in 
 both personal and commercial projects.
-
 
 Rights:
 -------
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
-
+I am permitted to use and modify this resource for my personal portfolio. I have customized the 
+template based on my needs, following the required attribution guidelines.
 
 Prohibitions:
 -------------
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+I am not allowed to resell or redistribute the template “as is” without prior consent.  
+If others want to download the original version, they should visit styleshout.com directly.
 
-
-Attribution: 
+Attribution:
 ------------
 
-You must include a credit link to our website(https://styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+In compliance with the template license, a credit link to StyleShout (https://styleshout.com) 
+is included on my site. This credit may remain in the footer or be placed elsewhere as needed.
 
+If removing attribution, a $10 credit removal fee can be paid to StyleShout through Paypal.  
+More details: https://styleshout.com/attribution-free/
 
-
-If you have any questions about the License, feel free to contact us.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
+------------------------------------------------------------------------------------------------------
 
 SUPPORT:
-    
-Since HUDSON is distributed for free, support is not offered. HUDSON is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
+
+Since the HUDSON template is provided for free, official support is not included. The template 
+is coded with current web standards and is easy to modify for users with basic HTML and CSS 
+knowledge. Beginners may refer to the following tutorials:
 
  - https://marksheet.io/
  - http://learn.shayhowe.com/html-css/
 
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
+For Javascript fundamentals:
  - https://www.codecademy.com/learn/introduction-to-javascript
  - https://javascript.info/
 
-
-
-
 -------------------------------------------------------------------------------------------------------
-
 
 GET THE LATEST VERSION:
 
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://styleshout.com/)
-
-
+To ensure the newest updates or improvements, the latest version of the HUDSON template 
+can always be downloaded from https://styleshout.com/
 
 -------------------------------------------------------------------------------------------------------
 
-
 SOURCES AND CREDITS:
-
-I've used the following resources as listed.
 
 Fonts:
  - Castoro Font (https://fonts.google.com/specimen/Castoro)
@@ -114,16 +69,13 @@ Icons:
 
 Stock Photos and Graphics:
  - Unsplash.com (https://unsplash.com/)
- 
+
 Javascript Files:
  - MoveTo.js (https://github.com/hsnaydd/moveTo)
  - Prism.js (https://prismjs.com/)
  - Swiper JS (https://swiperjs.com/)
  - GLightbox (https://biati-digital.github.io/glightbox/)
 
--------------------------------------------------------------------------------------------------------
+=======================================================================================================
 
-
-Thanks for downloading from StyleShout :)
-
-
+Thank you for using StyleShout resources.
