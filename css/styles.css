@@ -2129,10 +2129,11 @@ input[type=submit]:hover,
 input[type=reset]:hover,
 input[type=button]:hover {
     background-color: var(--color-btn-hover);
-    border-color    : var(--color-btn-hover);
-    color           : var(--color-btn-hover-text);
+    border-color    : #233C67;
+    color           : #ffffff;
     outline         : 0;
-    box-shadow      : 0 0 20px rgba(35, 60, 103, 0.6), inset 0 0 10px rgba(35, 60, 103, 0.3);
+    box-shadow      : 0 0 30px rgba(35, 60, 103, 0.8), 0 0 60px rgba(35, 60, 103, 0.5), inset 0 0 15px rgba(100, 150, 200, 0.3);
+    text-shadow     : 0 0 10px rgba(35, 60, 103, 0.4);
 }
 
 /* button primary
@@ -2158,9 +2159,10 @@ input[type=submit].btn--primary:hover,
 input[type=reset].btn--primary:hover,
 input[type=button].btn--primary:hover {
     background  : var(--color-btn-primary-hover);
-    border-color: var(--color-btn-primary-hover);
-    color       : var(--color-btn-primary-hover-text);
-    box-shadow  : 0 0 20px rgba(35, 60, 103, 0.6), inset 0 0 10px rgba(35, 60, 103, 0.3);
+    border-color: #233C67;
+    color       : #ffffff;
+    box-shadow  : 0 0 30px rgba(35, 60, 103, 0.8), 0 0 60px rgba(35, 60, 103, 0.5), inset 0 0 15px rgba(100, 150, 200, 0.3);
+    text-shadow : 0 0 10px rgba(35, 60, 103, 0.4);
 }
 
 /* button modifiers
@@ -2200,9 +2202,10 @@ button.btn--stroke:focus,
 .btn--stroke:hover,
 button.btn--stroke:hover {
     background: var(--color-btn-stroke-hover) !important;
-    border    : 2px solid var(--color-btn-stroke-hover);
-    color     : var(--color-btn-stroke-hover-text);
-    box-shadow: 0 0 20px rgba(35, 60, 103, 0.6), inset 0 0 10px rgba(35, 60, 103, 0.3);
+    border    : 2px solid #233C67;
+    color     : #ffffff;
+    box-shadow: 0 0 30px rgba(35, 60, 103, 0.8), 0 0 60px rgba(35, 60, 103, 0.5), inset 0 0 15px rgba(100, 150, 200, 0.3);
+    text-shadow: 0 0 10px rgba(35, 60, 103, 0.4);
 }
 
 .btn--pill,
