@@ -3374,7 +3374,7 @@ td:last-child {
     --content-padding-bottom: 8rem;
     --content-min-height    : calc(var(--vspace-1) * 27);
     z-index                 : 2;
-    background-color        : var(--color-gray-10);
+    background-color        : #000000;
     width                   : 100%;
     height                  : max(var(--content-min-height), 100vh);
     overflow                : hidden;
@@ -3875,7 +3875,8 @@ td:last-child {
  * ------------------------------------------------------------------- */
 .s-about {
     padding-top: var(--vspace-7);
-    color      : var(--color-3);
+    color      : #ffffff;
+    background-color: #0a0a0a;
 }
 
 /* --------------------------------------------------------------------
@@ -3924,7 +3925,7 @@ td:last-child {
     font-size  : var(--text-sm);
     font-weight: 300;
     line-height: 1.2;
-    color      : var(--color-text-light) !important;
+    color      : #ffffff !important;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3946,6 +3947,8 @@ td:last-child {
 .s-works {
     padding-top   : var(--vspace-6);
     padding-bottom: var(--vspace-1);
+    background-color: #1a1a1a;
+    color: #ffffff;
 }
 
 .folio-entries {
@@ -4147,8 +4150,8 @@ td:last-child {
 .s-numbers {
     padding-top     : var(--vspace-5_5);
     padding-bottom  : var(--vspace-4);
-    background-color: var(--color-gray-10);
-    color           : var(--color-text-light);
+    background-color: #0a0a0a;
+    color           : #ffffff;
 }
 
 .s-numbers h5 {
@@ -4172,7 +4175,7 @@ td:last-child {
     font-size     : var(--text-huge-3);
     letter-spacing: -0.035em;
     line-height   : 1;
-    color         : var(--color-3-dark);
+    color         : #ffffff;
 }
 
 .counter-items span {
@@ -4204,11 +4207,11 @@ td:last-child {
  * ------------------------------------------------------------------- */
 .s-footer {
     --bottom-padding: var(--vspace-2_5);
-    background-color: var(--color-3);
+    background-color: #000000;
     margin-top      : auto;
     padding-top     : var(--vspace-6);
     padding-bottom  : var(--bottom-padding);
-    color           : var(--color-gray-15);
+    color           : #ffffff;
 }
 
 .s-footer h5 {
@@ -4221,12 +4224,12 @@ td:last-child {
 }
 
 .s-footer__block a {
-    color: var(--color-gray-12);
+    color: #ffffff;
 }
 
 .s-footer__block a:focus,
 .s-footer__block a:hover {
-    color: white;
+    color: var(--color-1);
 }
 
 .s-footer__about {
