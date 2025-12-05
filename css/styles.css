@@ -173,15 +173,15 @@
    */
     --color-btn                   : #233C67;
     --color-btn-text              : #ffffff;
-    --color-btn-hover             : #1a2d50;
+    --color-btn-hover             : #0f1d35;
     --color-btn-hover-text        : #ffffff;
     --color-btn-primary           : #233C67;
     --color-btn-primary-text      : var(--color-white);
-    --color-btn-primary-hover     : #1a2d50;
+    --color-btn-primary-hover     : #0f1d35;
     --color-btn-primary-hover-text: var(--color-white);
     --color-btn-stroke            : #233C67;
     --color-btn-stroke-text       : #ffffff;
-    --color-btn-stroke-hover      : #1a2d50;
+    --color-btn-stroke-hover      : #0f1d35;
     --color-btn-stroke-hover-text : var(--color-white);
 
   /* preloader
@@ -2132,6 +2132,7 @@ input[type=button]:hover {
     border-color    : var(--color-btn-hover);
     color           : var(--color-btn-hover-text);
     outline         : 0;
+    box-shadow      : 0 0 20px rgba(35, 60, 103, 0.6), inset 0 0 10px rgba(35, 60, 103, 0.3);
 }
 
 /* button primary
@@ -2159,6 +2160,7 @@ input[type=button].btn--primary:hover {
     background  : var(--color-btn-primary-hover);
     border-color: var(--color-btn-primary-hover);
     color       : var(--color-btn-primary-hover-text);
+    box-shadow  : 0 0 20px rgba(35, 60, 103, 0.6), inset 0 0 10px rgba(35, 60, 103, 0.3);
 }
 
 /* button modifiers
@@ -2200,6 +2202,7 @@ button.btn--stroke:hover {
     background: var(--color-btn-stroke-hover) !important;
     border    : 2px solid var(--color-btn-stroke-hover);
     color     : var(--color-btn-stroke-hover-text);
+    box-shadow: 0 0 20px rgba(35, 60, 103, 0.6), inset 0 0 10px rgba(35, 60, 103, 0.3);
 }
 
 .btn--pill,
